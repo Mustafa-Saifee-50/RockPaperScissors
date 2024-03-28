@@ -23,6 +23,3 @@ The game allows the player to play against the computer. The player chooses eith
 
 ## Requirements
 - Java Development Kit (JDK) installed on your system.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
